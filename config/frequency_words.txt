@@ -42,6 +42,9 @@ DJI
 
 申奥
 
+淘宝
+马云
+
 京东
 刘强东
 
@@ -51,6 +54,7 @@ bytedance
 
 特斯拉
 马斯克
+grok
 
 微软
 Microsoft
@@ -81,10 +85,14 @@ ios
 ai
 !gai
 人工智能
+aicg
 
 自动驾驶
 
 机器人
+
+大模型
+LLM
 
 国产
 中国
